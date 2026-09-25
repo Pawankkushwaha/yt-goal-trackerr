@@ -50,7 +50,7 @@ This loop, scoping a real goal, building against real API constraints, and chang
 
 ## Built with
 
-Built with [Lovable](https://lovable.dev), which auto-provisioned the app's backend. Stack: React + TanStack Start, Tailwind CSS, a hosted Postgres database with row-level security, and the YouTube Data API.
+Built with [Lovable](https://lovable.dev/invite/LFAT07R), which auto-provisioned the app's backend. Stack: React + TanStack Start, Tailwind CSS, a hosted Postgres database with row-level security, and the YouTube Data API.
 
 ## About this repo
 
